@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "loginand_signup_function",
+		"stack": "node20",
+		"type": "advancedio",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

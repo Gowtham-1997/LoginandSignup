@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "targets": [
+      "loginand_signup_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client",
+    "plugin": "zcatalyst-cli-plugin-react"
+  }
+}

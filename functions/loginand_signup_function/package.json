@@ -1,0 +1,9 @@
+{
+	"name": "loginand_signup_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "user2@demo.elitetechpark.com",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}
